@@ -1,0 +1,9 @@
+*.mp4
+*.avi
+*.mov
+*.pt
+*.xlsx
+speeding_images/
+__pycache__/
+*.jpg
+*.png
